@@ -28,3 +28,6 @@ Aplicação educacional gamificada em HTML, CSS e JavaScript, pronta para public
 - A nota geral utiliza os resultados registrados para as três fases, com peso igual por fase (60 questões no total).
 - O conteúdo é didático e não substitui orientação jurídica ou avaliação formal de segurança do trabalho.
 - A aplicação ainda não possui service worker/PWA; para abrir totalmente offline depois de limpar cache ou em um dispositivo novo, é necessário carregar os arquivos primeiro.
+
+
+**Imagem do Instrutor Eneas:** a imagem foi incorporada diretamente ao `index.html` nesta versão. Assim, ela continua aparecendo mesmo se o arquivo HTML for movido sozinho. O arquivo `eneas-personagem.png` também é mantido no pacote como recurso separado.
