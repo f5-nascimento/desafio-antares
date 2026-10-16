@@ -31,3 +31,10 @@ Aplicação educacional gamificada em HTML, CSS e JavaScript, pronta para public
 
 
 **Imagem do Instrutor Eneas:** a imagem foi incorporada diretamente ao `index.html` nesta versão. Assim, ela continua aparecendo mesmo se o arquivo HTML for movido sozinho. O arquivo `eneas-personagem.png` também é mantido no pacote como recurso separado.
+
+## Ambientes das fases
+- Fase 1: `sala-rh-antares.jpg` — sala de Recursos Humanos.
+- Fase 2: `laboratorio-ti-antares.jpg` — laboratório de TI.
+- Fase 3: `sala-juridico-antares.jpg` — setor Jurídico e Compliance.
+
+Mantenha as imagens junto de `index.html`, `questoes.js` e `eneas-personagem.webp` para que a aplicação carregue corretamente no GitHub Pages.
